@@ -1,0 +1,4 @@
+com\pensionerDetails\Service\PensionDetailServiceTest.class
+com\pensionerDetailsMicroservice\exception\GlobalExceptionHandlerTests.class
+com\pensionerDetailsMicroservice\PensionerDetailsMicroserviceApplicationTests.class
+com\pensionerDetailsMicroservice\Controller\PensionDetailsControllerTest.class

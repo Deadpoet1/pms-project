@@ -1,0 +1,4 @@
+com\processPensionMicroservice\service\ProcessPensionServiceImplTest.class
+com\processPensionMicroservice\controller\ProcessPensionMicroserviceControllerTest.class
+com\processPensionMicroservice\ProcessPensionMicroserviceApplicationTests.class
+com\processPensionMicroservice\ExceptionTests\GlobalExceptionHandlerTests.class
